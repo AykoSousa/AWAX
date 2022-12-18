@@ -57,6 +57,9 @@ header {
     border-bottom: 5px solid #b28756;
     color: #CCC;
 }
+.menu-opener {
+    display: none;
+}
 .button {
     display: inline-block;
     background-color: #b28756;
